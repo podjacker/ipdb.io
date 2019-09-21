@@ -1,3 +1,4 @@
+
 <!---
 Copyright BigchainDB GmbH and BigchainDB contributors
 SPDX-License-Identifier: (Apache-2.0 AND CC-BY-4.0)
