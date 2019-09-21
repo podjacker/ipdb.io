@@ -1,3 +1,13 @@
-chapter1.txt
-chapter2.txt
-chapter3.txt
+bft.md
+decentralized.md
+diversity.md
+immutable.md
+introduction.md
+networks.md
+production-ready.md
+quickstart.md
+release-notes.md
+store-files.md
+terminology.md
+transaction-concepts.md
+
